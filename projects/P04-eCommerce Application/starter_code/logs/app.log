@@ -1,0 +1,53 @@
+2021-12-02 00:02:58,471 INFO c.e.d.SareetaApplication [main] Starting SareetaApplication using Java 17 on USGILBRIANCLEE1 with PID 19580 (C:\Users\brianclee7\JDND\projects\P04-eCommerce Application\starter_code\target\classes started by brianclee7 in C:\Users\brianclee7\JDND\projects\P04-eCommerce Application\starter_code)
+2021-12-02 00:02:58,494 DEBUG c.e.d.SareetaApplication [main] Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-12-02 00:02:58,496 INFO c.e.d.SareetaApplication [main] No active profile set, falling back to default profiles: default
+2021-12-02 00:03:05,984 DEBUG c.e.d.s.JWTAuthenticationVerificationFilter [main] Filter 'JWTAuthenticationVerificationFilter' configured for use
+2021-12-02 00:03:07,037 INFO c.e.d.SareetaApplication [main] Started SareetaApplication in 9.502 seconds (JVM running for 12.57)
+2021-12-02 00:03:22,259 INFO c.e.d.c.UserController [main] Finding item with item ID 
+2021-12-02 00:03:22,307 INFO c.e.d.c.UserController [main] Items found with 
+2021-12-02 00:03:22,310 INFO c.e.d.c.UserController [main] Finding item with item ID 
+2021-12-02 00:03:22,313 INFO c.e.d.c.UserController [main] Items found with 
+2021-12-02 00:03:22,460 INFO c.e.d.c.UserController [main] Finding user with user ID 
+2021-12-02 00:03:22,465 INFO c.e.d.c.UserController [main] Username set with 
+2021-12-02 00:03:22,465 INFO c.e.d.c.UserController [main] Cart repository saved with Username 
+2021-12-02 00:03:22,466 INFO c.e.d.c.UserController [main] Password has been set for user 
+2021-12-02 00:03:22,467 INFO c.e.d.c.UserController [main] Username set with 
+2021-12-02 00:03:22,467 INFO c.e.d.c.UserController [main] Cart repository saved with Username 
+2021-12-02 00:03:22,468 DEBUG c.e.d.c.UserController [main] Password need to have at least 7 characters, or confirm password needs to be the same as password!
+2021-12-02 00:03:22,470 INFO c.e.d.c.UserController [main] Username found with 
+2021-12-02 00:03:22,472 INFO c.e.d.c.UserController [main] Username found with 
+2021-12-02 00:03:22,473 INFO c.e.d.c.UserController [main] Finding user with user ID 
+2021-12-02 00:03:22,477 DEBUG c.e.d.c.UserController [main] Item not found!
+2021-12-02 00:03:22,482 INFO c.e.d.c.UserController [main] Item is added to the cart!
+2021-12-02 00:03:22,486 DEBUG c.e.d.c.UserController [main] Item not found!
+2021-12-02 00:03:22,490 INFO c.e.d.c.UserController [main] Item is removed to the cart!
+2021-12-02 00:03:22,496 DEBUG c.e.d.c.UserController [main] Username not found!
+2021-12-02 00:03:22,498 DEBUG c.e.d.c.UserController [main] Username not found!
+2021-12-02 00:03:22,552 INFO c.e.d.c.UserController [main] Username found with 
+2021-12-02 00:03:22,553 DEBUG c.e.d.c.UserController [main] Username not found!
+2021-12-02 00:03:22,554 INFO c.e.d.c.UserController [main] Username found with 
+2021-12-02 00:03:22,554 DEBUG c.e.d.c.UserController [main] Username not found!
+2021-12-02 00:03:22,554 INFO c.e.d.c.UserController [main] Username found with 
+2021-12-02 00:03:22,555 INFO c.e.d.c.UserController [main] Username found with 
+2021-12-02 00:03:22,556 DEBUG c.e.d.c.UserController [main] Username not found!
+2021-12-02 00:03:22,557 INFO c.e.d.c.UserController [main] Username found with 
+2021-12-02 00:03:22,558 INFO c.e.d.c.UserController [main] Order is successfully submitted!
+2021-12-02 00:03:40,494 INFO c.e.d.s.SecurityTest [main] Starting SecurityTest using Java 17 on USGILBRIANCLEE1 with PID 11796 (started by brianclee7 in C:\Users\brianclee7\JDND\projects\P04-eCommerce Application\starter_code)
+2021-12-02 00:03:40,511 DEBUG c.e.d.s.SecurityTest [main] Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-12-02 00:03:40,515 INFO c.e.d.s.SecurityTest [main] No active profile set, falling back to default profiles: default
+2021-12-02 00:03:48,860 INFO c.e.d.s.SecurityTest [main] Started SecurityTest in 8.828 seconds (JVM running for 12.665)
+2021-12-02 00:04:10,991 INFO c.e.d.c.UserController [http-nio-8080-exec-2] Username set with 
+2021-12-02 00:04:11,113 INFO c.e.d.c.UserController [http-nio-8080-exec-2] Cart repository saved with Username 
+2021-12-02 00:04:11,113 DEBUG c.e.d.c.UserController [http-nio-8080-exec-2] Password need to have at least 7 characters, or confirm password needs to be the same as password!
+2021-12-02 00:04:14,037 INFO c.e.d.c.UserController [http-nio-8080-exec-4] Username set with 
+2021-12-02 00:04:14,038 INFO c.e.d.c.UserController [http-nio-8080-exec-4] Cart repository saved with Username 
+2021-12-02 00:04:14,167 INFO c.e.d.c.UserController [http-nio-8080-exec-4] Password has been set for user 
+2021-12-02 00:04:39,893 INFO c.e.d.c.UserController [http-nio-8080-exec-6] Item is added to the cart!
+2021-12-02 00:04:51,744 INFO c.e.d.c.UserController [http-nio-8080-exec-7] Item is added to the cart!
+2021-12-02 00:05:16,767 INFO c.e.d.c.UserController [http-nio-8080-exec-8] Username found with 
+2021-12-02 00:05:16,783 INFO c.e.d.c.UserController [http-nio-8080-exec-8] Order is successfully submitted!
+2021-12-02 00:13:48,982 DEBUG c.e.d.c.UserController [http-nio-8080-exec-8] Username not found!
+2021-12-02 00:14:38,563 INFO c.e.d.c.UserController [http-nio-8080-exec-1] Item is removed to the cart!
+2021-12-02 00:14:45,673 INFO c.e.d.c.UserController [http-nio-8080-exec-2] Item is removed to the cart!
+2021-12-02 00:14:56,863 INFO c.e.d.c.UserController [http-nio-8080-exec-3] Item is removed to the cart!
+2021-12-02 00:15:24,560 DEBUG c.e.d.c.UserController [http-nio-8080-exec-4] Username not found!
